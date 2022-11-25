@@ -1,0 +1,32 @@
+#contentBannerHome{
+    background-image: url('../img/fondo-inicio.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+#fondoBannerHome{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-bottom: 100px;
+}
+
+#contentTexto{
+    text-align: center;
+    color: white;
+    padding-top: 18%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.btn{
+    border-radius: 20px !important;
+    width: 200px;
+}
+  
+.nav-item{
+    border-left: solid rgb(93, 89, 89) 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
